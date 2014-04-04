@@ -1,6 +1,8 @@
 # Introduction
 This is a Java library to retrieve weather information and forecasts from [Open Weather Map](http://http://openweathermap.org/).
 
+for uase in my ai
+
 # Continuous Integration
 
 [![Build Status](https://travis-ci.org/migtavares/owmClient.png?branch=master)](https://travis-ci.org/migtavares/owmClient)
